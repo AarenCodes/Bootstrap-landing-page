@@ -1,0 +1,50 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url("/Users/aarenandy/Desktop/code stuff/Udemy Classes/Landing Page Bootstrap/header.jpg");
+  font-family: 'Montserrat', sans-serif; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #e2dbdb;
+}
+
+hr {
+  border-color:#ee4b08;
+  border-width: 5px;
+  max-width: 65px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.buffer {
+height: 10rem;
+}
+
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: indianred;
+  border-color: indianred;
+}
+
+.btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 4px;
+}
+
+
